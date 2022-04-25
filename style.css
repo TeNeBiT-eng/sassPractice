@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lime;
+}
+
+h1 {
+  color: #fff;
+}
+
+nav {
+  background-color: var(--bg_color);
+}
+
+main {
+  background-color: lime;
+}
+main li {
+  list-style-type: none;
+}
+main li a {
+  -webkit-text-decoration: dotted;
+          text-decoration: dotted;
+}/*# sourceMappingURL=style.css.map */
